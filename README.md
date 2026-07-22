@@ -18,7 +18,7 @@ I am an Information Technology student passionate about coding, problem-solving,
 
 **DocuChain** — a blockchain-based document organization and integrity verification system, built as my capstone project. Deployed LAN-only on physical servers at DNSC, it uses chain-backed hashing to make document tampering detectable rather than assumed away.
 
-**Arden and Alvin: Shards of destiny** — a 2D pixel-art RPG built "low-spec first" for players all over the world. I lead technical direction as CTO alongside a small founding team.
+**Alvin and Arden: The Shards of Destiny** — a 2D pixel-art RPG built "low-spec first" for players all over the world. I lead technical direction as CTO alongside a small founding team.
 
 ### 🧱 Stack
 
